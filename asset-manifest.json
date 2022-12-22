@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/intern/static/css/main.2c0913df.css",
-    "main.js": "/intern/static/js/main.436e31bd.js",
-    "static/js/787.97082677.chunk.js": "/intern/static/js/787.97082677.chunk.js",
-    "static/media/foto.jpg": "/intern/static/media/foto.afa6260363f486753389.jpg",
-    "static/media/phone.svg": "/intern/static/media/phone.3a8148f9722bf80cd6d9e5b8ed812aa2.svg",
-    "static/media/location.svg": "/intern/static/media/location.f22bcedfc14958a505a9a98e86176c7e.svg",
-    "static/media/mail.svg": "/intern/static/media/mail.dc3b5a362c4ee05c020ac8553bd15c2d.svg",
-    "static/media/github.svg": "/intern/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
-    "index.html": "/intern/index.html",
-    "main.2c0913df.css.map": "/intern/static/css/main.2c0913df.css.map",
-    "main.436e31bd.js.map": "/intern/static/js/main.436e31bd.js.map",
-    "787.97082677.chunk.js.map": "/intern/static/js/787.97082677.chunk.js.map"
+    "main.css": "/PersonlCV-/static/css/main.2c0913df.css",
+    "main.js": "/PersonlCV-/static/js/main.a1f35e1e.js",
+    "static/js/787.97082677.chunk.js": "/PersonlCV-/static/js/787.97082677.chunk.js",
+    "static/media/foto.jpg": "/PersonlCV-/static/media/foto.afa6260363f486753389.jpg",
+    "static/media/phone.svg": "/PersonlCV-/static/media/phone.3a8148f9722bf80cd6d9e5b8ed812aa2.svg",
+    "static/media/location.svg": "/PersonlCV-/static/media/location.f22bcedfc14958a505a9a98e86176c7e.svg",
+    "static/media/mail.svg": "/PersonlCV-/static/media/mail.dc3b5a362c4ee05c020ac8553bd15c2d.svg",
+    "static/media/github.svg": "/PersonlCV-/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
+    "index.html": "/PersonlCV-/index.html",
+    "main.2c0913df.css.map": "/PersonlCV-/static/css/main.2c0913df.css.map",
+    "main.a1f35e1e.js.map": "/PersonlCV-/static/js/main.a1f35e1e.js.map",
+    "787.97082677.chunk.js.map": "/PersonlCV-/static/js/787.97082677.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2c0913df.css",
-    "static/js/main.436e31bd.js"
+    "static/js/main.a1f35e1e.js"
   ]
 }
