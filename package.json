@@ -1,6 +1,6 @@
 {
+  "homepage": "https://tanganikan.github.io/PersonlCV-/",
   "name": "inventory",
-  "homepage": "https://tanganikan.github.io/personlcv-/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
