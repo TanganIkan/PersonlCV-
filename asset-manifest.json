@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PersonlCV-/static/css/main.2c0913df.css",
+    "main.css": "/PersonlCV-/static/css/main.93a22043.css",
     "main.js": "/PersonlCV-/static/js/main.a1f35e1e.js",
     "static/js/787.97082677.chunk.js": "/PersonlCV-/static/js/787.97082677.chunk.js",
     "static/media/foto.jpg": "/PersonlCV-/static/media/foto.afa6260363f486753389.jpg",
@@ -9,12 +9,12 @@
     "static/media/mail.svg": "/PersonlCV-/static/media/mail.dc3b5a362c4ee05c020ac8553bd15c2d.svg",
     "static/media/github.svg": "/PersonlCV-/static/media/github.fc0ffe042a9582d2a394e1c609baa9f2.svg",
     "index.html": "/PersonlCV-/index.html",
-    "main.2c0913df.css.map": "/PersonlCV-/static/css/main.2c0913df.css.map",
+    "main.93a22043.css.map": "/PersonlCV-/static/css/main.93a22043.css.map",
     "main.a1f35e1e.js.map": "/PersonlCV-/static/js/main.a1f35e1e.js.map",
     "787.97082677.chunk.js.map": "/PersonlCV-/static/js/787.97082677.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c0913df.css",
+    "static/css/main.93a22043.css",
     "static/js/main.a1f35e1e.js"
   ]
 }
